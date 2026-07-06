@@ -1,4 +1,5 @@
 Project Overview:
+
 An interactive Power BI dashboard designed to analyze and uncover insights from Netflix’s global content library. This project transforms raw entertainment data into a comprehensive visual story, tracking performance across genres, ratings, countries, directors, and release years to help understand audience preferences and production strategies.
 
 Key Features and Insights:
